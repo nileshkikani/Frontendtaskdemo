@@ -1,0 +1,303 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/kristal/.gradle/caches/transforms-3/6b8e83c0445bf517e97ca38fc7a8ab51/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/kristal/.gradle/caches/transforms-3/82f955af9844438656bae4564877956b/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/kristal/.gradle/caches/transforms-3/6d67b1aae4b67376595824ab10ba7544/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-gesture-handler] /Volumes/Projects/Demo/Client_Demo/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Volumes/Projects/Demo/Client_Demo/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Volumes/Projects/Demo/Client_Demo/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.68.0] /Users/kristal/.gradle/caches/transforms-3/f77b10bcb78c82aebcefed7378d4d5a3/transformed/jetified-react-native-0.68.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kristal/.gradle/caches/transforms-3/63227ab87aa5ea7691c9d7958395cb66/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/kristal/.gradle/caches/transforms-3/e61b4bf71633e6f5cfab93e9417f4e29/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/kristal/.gradle/caches/transforms-3/bbdc63cdd9d06c1f4b4fe022ca5f11ab/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/kristal/.gradle/caches/transforms-3/7bb0ce852236a6111b3b693ee41ce07d/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/kristal/.gradle/caches/transforms-3/2f7457307e0b43a1e9caa71b1ff267f2/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/kristal/.gradle/caches/transforms-3/52ad603e5ad13422e3195da76c211c91/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/kristal/.gradle/caches/transforms-3/d98e6420f1d0d87372a39bf071fe5df0/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/kristal/.gradle/caches/transforms-3/f076fe03fa2c34d9ce3d6c511c54c030/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/kristal/.gradle/caches/transforms-3/5407568c704cf48408b7f69a4466b2df/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/kristal/.gradle/caches/transforms-3/4798527c4397e3b3b3d3b50423da2956/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/kristal/.gradle/caches/transforms-3/fba561dc496ad2098c94514e61c304a2/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/kristal/.gradle/caches/transforms-3/d96e53654c621d3f7f2fafcc3127ae1a/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/kristal/.gradle/caches/transforms-3/946f4d0b5daf39f01fc346d71e4bcf16/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/kristal/.gradle/caches/transforms-3/2fc7f193ba94132764954898eb7724f6/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/kristal/.gradle/caches/transforms-3/6a748d49151209aac9afcc05599c62be/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/kristal/.gradle/caches/transforms-3/1d7d5400592626b431e98429d098873c/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/kristal/.gradle/caches/transforms-3/8a2fe6219413228a3e59b5efdfd752f8/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/kristal/.gradle/caches/transforms-3/cc05bb43acbefbe1d52e02ed05c9aea4/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/kristal/.gradle/caches/transforms-3/1a025177740534dd7080483231a84753/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/kristal/.gradle/caches/transforms-3/42a170f0848b28d7a0d5d3304443103a/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/kristal/.gradle/caches/transforms-3/61b7279d62dc3b97a0f0ef5f94a76dd2/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/kristal/.gradle/caches/transforms-3/b8cdff1267f5cd87c1b87f62c9dcd7fe/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/kristal/.gradle/caches/transforms-3/872419124c3d7d61c0753f1c03fdd741/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/kristal/.gradle/caches/transforms-3/162d431fbb32bba87bca89a1d4a23719/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kristal/.gradle/caches/transforms-3/72b3b3a3d4474a9c35e31f09f8bb5b59/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kristal/.gradle/caches/transforms-3/35f1b8c92e34b56a78c00e677697b039/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kristal/.gradle/caches/transforms-3/058d482d4c172bc9eba2e28decf4310f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/kristal/.gradle/caches/transforms-3/ef113107ec7d0e3f83a09610d83da99d/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kristal/.gradle/caches/transforms-3/0dcf550e71246388e232ad3f979e9e81/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/kristal/.gradle/caches/transforms-3/8185a23ba30bb9037eb60851f26ede95/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/kristal/.gradle/caches/transforms-3/308908b956e1692a53ad5b7bb7868708/transformed/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kristal/.gradle/caches/transforms-3/e8fbdaca330d130cecdb5383da79600b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kristal/.gradle/caches/transforms-3/863023fd4be02a28aa8e5da6993f29b6/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kristal/.gradle/caches/transforms-3/ca8f1763a7fa47a1aaf3ca2d271d4449/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kristal/.gradle/caches/transforms-3/7b6a1ec199f3bc731048b4443661a81b/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/kristal/.gradle/caches/transforms-3/9c4e7acc6c5efd120ca7c611479d2115/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kristal/.gradle/caches/transforms-3/3d12296f2f8919841a86b91626fb64a9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kristal/.gradle/caches/transforms-3/48b9a5ef2d93c42c12328ec82f28914a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/kristal/.gradle/caches/transforms-3/e8ef4ebe588387efeed04c929d504408/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kristal/.gradle/caches/transforms-3/13917681c4d6203365bd1992d12fc0f6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/kristal/.gradle/caches/transforms-3/240968bffcedc5ace2fe918f1d4e67b8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kristal/.gradle/caches/transforms-3/5021d7df2d4b16f78043cc3d6dd20b56/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/kristal/.gradle/caches/transforms-3/a22e4cab08b7ff24bd9a0f92d10abce9/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/kristal/.gradle/caches/transforms-3/728ca19b39bcaa9f385f3c39238494dc/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/kristal/.gradle/caches/transforms-3/51efd8b4b3ec7f26966e7e93321b7247/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kristal/.gradle/caches/transforms-3/40585df04cfab9c1d881c8f8da146c5d/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kristal/.gradle/caches/transforms-3/ed0bf6fa00e59c6076c1dd779a3aed50/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kristal/.gradle/caches/transforms-3/4ddf0b586ad95a9bb2a9d2a4b78c8751/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kristal/.gradle/caches/transforms-3/c9a283140250795a86287208dfba0aa3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/kristal/.gradle/caches/transforms-3/b0485759581c82aeab573686e3fa7fc5/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kristal/.gradle/caches/transforms-3/1a0594f324360fb27a74301fd593bd4e/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/kristal/.gradle/caches/transforms-3/0af600512d36ab3fa7949377f6af7c71/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/kristal/.gradle/caches/transforms-3/feb730d30c71f6e5dd1ecbc183b655bf/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/kristal/.gradle/caches/transforms-3/6b8e83c0445bf517e97ca38fc7a8ab51/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/kristal/.gradle/caches/transforms-3/6b8e83c0445bf517e97ca38fc7a8ab51/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from [com.facebook.react:react-native:0.68.0] /Users/kristal/.gradle/caches/transforms-3/f77b10bcb78c82aebcefed7378d4d5a3/transformed/jetified-react-native-0.68.0/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.68.0] /Users/kristal/.gradle/caches/transforms-3/f77b10bcb78c82aebcefed7378d4d5a3/transformed/jetified-react-native-0.68.0/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/kristal/.gradle/caches/transforms-3/946f4d0b5daf39f01fc346d71e4bcf16/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/kristal/.gradle/caches/transforms-3/946f4d0b5daf39f01fc346d71e4bcf16/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/kristal/.gradle/caches/transforms-3/cc05bb43acbefbe1d52e02ed05c9aea4/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/kristal/.gradle/caches/transforms-3/cc05bb43acbefbe1d52e02ed05c9aea4/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/kristal/.gradle/caches/transforms-3/e8ef4ebe588387efeed04c929d504408/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/kristal/.gradle/caches/transforms-3/e8ef4ebe588387efeed04c929d504408/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kristal/.gradle/caches/transforms-3/ed0bf6fa00e59c6076c1dd779a3aed50/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kristal/.gradle/caches/transforms-3/ed0bf6fa00e59c6076c1dd779a3aed50/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/kristal/.gradle/caches/transforms-3/e8ef4ebe588387efeed04c929d504408/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:12:7-34
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:13:7-38
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:usesCleartextTraffic
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:11:9-44
+	android:name
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.client_demo.MainActivity
+ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:14:7-25:18
+	android:label
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:launchMode
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:18:9-40
+	android:windowSoftInputMode
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:19:9-51
+	android:exported
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:20:9-32
+	android:configChanges
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:17:9-118
+	android:name
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml:23:23-70
+uses-sdk
+INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/kristal/.gradle/caches/transforms-3/6b8e83c0445bf517e97ca38fc7a8ab51/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/kristal/.gradle/caches/transforms-3/6b8e83c0445bf517e97ca38fc7a8ab51/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/kristal/.gradle/caches/transforms-3/82f955af9844438656bae4564877956b/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/kristal/.gradle/caches/transforms-3/82f955af9844438656bae4564877956b/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/kristal/.gradle/caches/transforms-3/6d67b1aae4b67376595824ab10ba7544/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/kristal/.gradle/caches/transforms-3/6d67b1aae4b67376595824ab10ba7544/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-gesture-handler] /Volumes/Projects/Demo/Client_Demo/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Volumes/Projects/Demo/Client_Demo/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Volumes/Projects/Demo/Client_Demo/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Volumes/Projects/Demo/Client_Demo/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Volumes/Projects/Demo/Client_Demo/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Volumes/Projects/Demo/Client_Demo/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.0] /Users/kristal/.gradle/caches/transforms-3/f77b10bcb78c82aebcefed7378d4d5a3/transformed/jetified-react-native-0.68.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.0] /Users/kristal/.gradle/caches/transforms-3/f77b10bcb78c82aebcefed7378d4d5a3/transformed/jetified-react-native-0.68.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kristal/.gradle/caches/transforms-3/63227ab87aa5ea7691c9d7958395cb66/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kristal/.gradle/caches/transforms-3/63227ab87aa5ea7691c9d7958395cb66/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250230] /Users/kristal/.gradle/caches/transforms-3/e61b4bf71633e6f5cfab93e9417f4e29/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/kristal/.gradle/caches/transforms-3/e61b4bf71633e6f5cfab93e9417f4e29/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/kristal/.gradle/caches/transforms-3/bbdc63cdd9d06c1f4b4fe022ca5f11ab/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/kristal/.gradle/caches/transforms-3/bbdc63cdd9d06c1f4b4fe022ca5f11ab/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/kristal/.gradle/caches/transforms-3/7bb0ce852236a6111b3b693ee41ce07d/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/kristal/.gradle/caches/transforms-3/7bb0ce852236a6111b3b693ee41ce07d/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/kristal/.gradle/caches/transforms-3/2f7457307e0b43a1e9caa71b1ff267f2/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/kristal/.gradle/caches/transforms-3/2f7457307e0b43a1e9caa71b1ff267f2/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/kristal/.gradle/caches/transforms-3/52ad603e5ad13422e3195da76c211c91/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/kristal/.gradle/caches/transforms-3/52ad603e5ad13422e3195da76c211c91/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/kristal/.gradle/caches/transforms-3/d98e6420f1d0d87372a39bf071fe5df0/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/kristal/.gradle/caches/transforms-3/d98e6420f1d0d87372a39bf071fe5df0/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/kristal/.gradle/caches/transforms-3/f076fe03fa2c34d9ce3d6c511c54c030/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/kristal/.gradle/caches/transforms-3/f076fe03fa2c34d9ce3d6c511c54c030/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/kristal/.gradle/caches/transforms-3/5407568c704cf48408b7f69a4466b2df/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/kristal/.gradle/caches/transforms-3/5407568c704cf48408b7f69a4466b2df/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/kristal/.gradle/caches/transforms-3/4798527c4397e3b3b3d3b50423da2956/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/kristal/.gradle/caches/transforms-3/4798527c4397e3b3b3d3b50423da2956/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/kristal/.gradle/caches/transforms-3/fba561dc496ad2098c94514e61c304a2/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/kristal/.gradle/caches/transforms-3/fba561dc496ad2098c94514e61c304a2/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/kristal/.gradle/caches/transforms-3/d96e53654c621d3f7f2fafcc3127ae1a/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/kristal/.gradle/caches/transforms-3/d96e53654c621d3f7f2fafcc3127ae1a/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/kristal/.gradle/caches/transforms-3/946f4d0b5daf39f01fc346d71e4bcf16/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/kristal/.gradle/caches/transforms-3/946f4d0b5daf39f01fc346d71e4bcf16/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/kristal/.gradle/caches/transforms-3/2fc7f193ba94132764954898eb7724f6/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/kristal/.gradle/caches/transforms-3/2fc7f193ba94132764954898eb7724f6/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/kristal/.gradle/caches/transforms-3/6a748d49151209aac9afcc05599c62be/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/kristal/.gradle/caches/transforms-3/6a748d49151209aac9afcc05599c62be/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/kristal/.gradle/caches/transforms-3/1d7d5400592626b431e98429d098873c/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/kristal/.gradle/caches/transforms-3/1d7d5400592626b431e98429d098873c/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/kristal/.gradle/caches/transforms-3/8a2fe6219413228a3e59b5efdfd752f8/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/kristal/.gradle/caches/transforms-3/8a2fe6219413228a3e59b5efdfd752f8/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/kristal/.gradle/caches/transforms-3/cc05bb43acbefbe1d52e02ed05c9aea4/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/kristal/.gradle/caches/transforms-3/cc05bb43acbefbe1d52e02ed05c9aea4/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/kristal/.gradle/caches/transforms-3/1a025177740534dd7080483231a84753/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/kristal/.gradle/caches/transforms-3/1a025177740534dd7080483231a84753/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/kristal/.gradle/caches/transforms-3/42a170f0848b28d7a0d5d3304443103a/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/kristal/.gradle/caches/transforms-3/42a170f0848b28d7a0d5d3304443103a/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/kristal/.gradle/caches/transforms-3/61b7279d62dc3b97a0f0ef5f94a76dd2/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/kristal/.gradle/caches/transforms-3/61b7279d62dc3b97a0f0ef5f94a76dd2/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/kristal/.gradle/caches/transforms-3/b8cdff1267f5cd87c1b87f62c9dcd7fe/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/kristal/.gradle/caches/transforms-3/b8cdff1267f5cd87c1b87f62c9dcd7fe/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/kristal/.gradle/caches/transforms-3/872419124c3d7d61c0753f1c03fdd741/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/kristal/.gradle/caches/transforms-3/872419124c3d7d61c0753f1c03fdd741/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/kristal/.gradle/caches/transforms-3/162d431fbb32bba87bca89a1d4a23719/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/kristal/.gradle/caches/transforms-3/162d431fbb32bba87bca89a1d4a23719/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kristal/.gradle/caches/transforms-3/72b3b3a3d4474a9c35e31f09f8bb5b59/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kristal/.gradle/caches/transforms-3/72b3b3a3d4474a9c35e31f09f8bb5b59/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kristal/.gradle/caches/transforms-3/35f1b8c92e34b56a78c00e677697b039/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kristal/.gradle/caches/transforms-3/35f1b8c92e34b56a78c00e677697b039/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kristal/.gradle/caches/transforms-3/058d482d4c172bc9eba2e28decf4310f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kristal/.gradle/caches/transforms-3/058d482d4c172bc9eba2e28decf4310f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/kristal/.gradle/caches/transforms-3/ef113107ec7d0e3f83a09610d83da99d/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/kristal/.gradle/caches/transforms-3/ef113107ec7d0e3f83a09610d83da99d/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kristal/.gradle/caches/transforms-3/0dcf550e71246388e232ad3f979e9e81/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kristal/.gradle/caches/transforms-3/0dcf550e71246388e232ad3f979e9e81/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/kristal/.gradle/caches/transforms-3/8185a23ba30bb9037eb60851f26ede95/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/kristal/.gradle/caches/transforms-3/8185a23ba30bb9037eb60851f26ede95/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/kristal/.gradle/caches/transforms-3/308908b956e1692a53ad5b7bb7868708/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/kristal/.gradle/caches/transforms-3/308908b956e1692a53ad5b7bb7868708/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kristal/.gradle/caches/transforms-3/e8fbdaca330d130cecdb5383da79600b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kristal/.gradle/caches/transforms-3/e8fbdaca330d130cecdb5383da79600b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kristal/.gradle/caches/transforms-3/863023fd4be02a28aa8e5da6993f29b6/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kristal/.gradle/caches/transforms-3/863023fd4be02a28aa8e5da6993f29b6/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kristal/.gradle/caches/transforms-3/ca8f1763a7fa47a1aaf3ca2d271d4449/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kristal/.gradle/caches/transforms-3/ca8f1763a7fa47a1aaf3ca2d271d4449/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/kristal/.gradle/caches/transforms-3/7b6a1ec199f3bc731048b4443661a81b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kristal/.gradle/caches/transforms-3/7b6a1ec199f3bc731048b4443661a81b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/kristal/.gradle/caches/transforms-3/9c4e7acc6c5efd120ca7c611479d2115/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kristal/.gradle/caches/transforms-3/9c4e7acc6c5efd120ca7c611479d2115/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kristal/.gradle/caches/transforms-3/3d12296f2f8919841a86b91626fb64a9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kristal/.gradle/caches/transforms-3/3d12296f2f8919841a86b91626fb64a9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/kristal/.gradle/caches/transforms-3/48b9a5ef2d93c42c12328ec82f28914a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kristal/.gradle/caches/transforms-3/48b9a5ef2d93c42c12328ec82f28914a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/kristal/.gradle/caches/transforms-3/e8ef4ebe588387efeed04c929d504408/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/kristal/.gradle/caches/transforms-3/e8ef4ebe588387efeed04c929d504408/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kristal/.gradle/caches/transforms-3/13917681c4d6203365bd1992d12fc0f6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kristal/.gradle/caches/transforms-3/13917681c4d6203365bd1992d12fc0f6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/kristal/.gradle/caches/transforms-3/240968bffcedc5ace2fe918f1d4e67b8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/kristal/.gradle/caches/transforms-3/240968bffcedc5ace2fe918f1d4e67b8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kristal/.gradle/caches/transforms-3/5021d7df2d4b16f78043cc3d6dd20b56/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kristal/.gradle/caches/transforms-3/5021d7df2d4b16f78043cc3d6dd20b56/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/kristal/.gradle/caches/transforms-3/a22e4cab08b7ff24bd9a0f92d10abce9/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/kristal/.gradle/caches/transforms-3/a22e4cab08b7ff24bd9a0f92d10abce9/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/kristal/.gradle/caches/transforms-3/728ca19b39bcaa9f385f3c39238494dc/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/kristal/.gradle/caches/transforms-3/728ca19b39bcaa9f385f3c39238494dc/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/kristal/.gradle/caches/transforms-3/51efd8b4b3ec7f26966e7e93321b7247/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/kristal/.gradle/caches/transforms-3/51efd8b4b3ec7f26966e7e93321b7247/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kristal/.gradle/caches/transforms-3/40585df04cfab9c1d881c8f8da146c5d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kristal/.gradle/caches/transforms-3/40585df04cfab9c1d881c8f8da146c5d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kristal/.gradle/caches/transforms-3/ed0bf6fa00e59c6076c1dd779a3aed50/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kristal/.gradle/caches/transforms-3/ed0bf6fa00e59c6076c1dd779a3aed50/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kristal/.gradle/caches/transforms-3/4ddf0b586ad95a9bb2a9d2a4b78c8751/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kristal/.gradle/caches/transforms-3/4ddf0b586ad95a9bb2a9d2a4b78c8751/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kristal/.gradle/caches/transforms-3/c9a283140250795a86287208dfba0aa3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kristal/.gradle/caches/transforms-3/c9a283140250795a86287208dfba0aa3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/kristal/.gradle/caches/transforms-3/b0485759581c82aeab573686e3fa7fc5/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/kristal/.gradle/caches/transforms-3/b0485759581c82aeab573686e3fa7fc5/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kristal/.gradle/caches/transforms-3/1a0594f324360fb27a74301fd593bd4e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kristal/.gradle/caches/transforms-3/1a0594f324360fb27a74301fd593bd4e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/kristal/.gradle/caches/transforms-3/0af600512d36ab3fa7949377f6af7c71/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/kristal/.gradle/caches/transforms-3/0af600512d36ab3fa7949377f6af7c71/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/kristal/.gradle/caches/transforms-3/feb730d30c71f6e5dd1ecbc183b655bf/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/kristal/.gradle/caches/transforms-3/feb730d30c71f6e5dd1ecbc183b655bf/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Volumes/Projects/Demo/Client_Demo/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/kristal/.gradle/caches/transforms-3/6b8e83c0445bf517e97ca38fc7a8ab51/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/kristal/.gradle/caches/transforms-3/6b8e83c0445bf517e97ca38fc7a8ab51/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
